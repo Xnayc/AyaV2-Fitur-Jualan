@@ -1,14 +1,14 @@
 {
-"autoread": false,
+"autoread": true,
 "autoplaymusic": true,
 "autocomposing": false,
 "autorecording": true,
-"NamaBot":"AyaaBot", 
-"NomorOwner":"6281398860278",
-"NamaOwner":"Helga Zex", 
+"NamaBot":"Nanatbot", 
+"NomorOwner":"6281617247994",
+"NamaOwner":"Nanat Store", 
 "Gopay" : "Qris",
-"Ovo" : "081398860278",
-"Dana" : "081398860278",
+"Ovo" : "-",
+"Dana" : "-",
 "LolKey": "DashBot",
 "HunterApi":"Ikyy69"
 }
