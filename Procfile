@@ -1,1 +1,1 @@
-worker :  npm i && npm i pm2 -g && pm2 install ffmpeg && pm2 start index.js && pm2 save && pm2 logs
+worker: node . --db 'mongodb+srv://Nanad:nanadkawai98@cluster0.ujfvhz0.mongodb.net/?retryWrites=true&w=majority'
